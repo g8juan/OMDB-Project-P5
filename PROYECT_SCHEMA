@@ -1,0 +1,5 @@
+HOW TO SEND REQUESTS -> http://www.omdbapi.com/?apikey=[yourkey]&
+    - WITH MY PERSONAL KEY -> https://www.omdbapi.com/?apikey=d1dd9e30&
+
+WEBPACK FRONT: npm run build
+BACK SERVER: npm start
